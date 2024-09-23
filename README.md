@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VishnuCKariyattu
-- 👀 I’m interested in Business Analytics, Machine Learning, Strategy, Operations and Finance
+- 👀 I’m interested in Product & Program Management, Business Analytics, Machine Learning, Strategy, Operations and Finance
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on writing Reasearch papers
 - 📫 How to reach me vkariyattu1@gmail.com , kariyattuvishnu@gmail.com
